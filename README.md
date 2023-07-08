@@ -1,5 +1,6 @@
 # ISL_python
 ### An Introduction to Statistical Learning with Applications in PYTHON
+(por si las msocas acá estan los codigos tb https://www.statlearning.com/resources-python)
 
 I love the book << An Introduction to Statistical Learning with Applications in R>> by Gareth James • Daniela Witten • Trevor Hastie and Robert Tibshirani. This book has been super helpful for me. 
 
